@@ -3,6 +3,8 @@ This project presents a comprehensive Excel-based dashboard that analyzes and vi
 
 ## 📌 Project Overview
 
+![Screenshot 2025-06-11 152955](https://github.com/user-attachments/assets/94a78047-ec5d-47bf-b0bd-2317ff0e6dd9)
+
 The dashboard provides an interactive, data-driven overview of key performance indicators such as:
 
 - Average Discount Percentage
